@@ -1,55 +1,92 @@
 import 'package:adv_basics/models/quiz_question.dart';
 
 const questions = [
-  QuizQuestion(
-    'What are the main building blocks of Flutter UIs?',
+   QuizQuestion(
+    'Who won the FIFA World Cup in 2018 ?',
     [
-      'Widgets',
-      'Components',
-      'Blocks',
-      'Functions',
+      'France',
+      'Germany',
+      'Brazil',
+      'Argentina',
     ],
   ),
-  QuizQuestion('How are Flutter UIs built?', [
-    'By combining widgets in code',
-    'By combining widgets in a visual editor',
-    'By defining widgets in config files',
-    'By using XCode for iOS and Android Studio for Android',
+   QuizQuestion(
+    'Which player has won the most UEFA Champions League titles?',
+    [
+      'Cristiano Ronaldo',
+      'Paolo Maldini',
+      'Lionel Messi',
+      'Andrés Iniesta',
+    ],
+  ),
+   QuizQuestion(
+    'Which country has won the most European Championship titles?',
+    [
+      'Spain',
+      'Germany',
+      'Italy',
+      'France',
+    ],
+  ),
+  QuizQuestion(
+    'Which country hosted the FIFA World Cup in 2014?',
+    [
+      'Brazil',
+      'Germany',
+      'Italy',
+      'Qatar',
+    ],
+  ),
+  QuizQuestion(
+    'Which country has won the most FIFA World Cup titles?',
+    [
+      'Brazil',
+      'Germany',
+      'Italy',
+      'Argentina',
+    ],
+  ),
+  QuizQuestion(
+    'Which player has won the most Ballon dor awards ?', [
+    'Lionel Messi',
+    'Cristiano Ronaldo',
+    'Neymar',
+    'Zinedine Zidane',
   ]),
   QuizQuestion(
-    'What\'s the purpose of a StatefulWidget?',
+    'Which country has won the most Copa America titles ?',
     [
-      'Update UI as data changes',
-      'Update data as UI changes',
-      'Ignore data changes',
-      'Render UI that does not depend on data',
+      'Brazil',
+      'Argentina',
+      'Uruguay',
+      'Colombia',
     ],
   ),
   QuizQuestion(
-    'Which widget should you try to use more often: StatelessWidget or StatefulWidget?',
+    'Who is the all-time leading goal scorer for the Spanish national team ?',
     [
-      'StatelessWidget',
-      'StatefulWidget',
-      'Both are equally good',
-      'None of the above',
+      'David villa',
+      'Raul',
+      'Fernando Torres',
+      'Alfredo di Stefano',
     ],
   ),
   QuizQuestion(
-    'What happens if you change data in a StatelessWidget?',
+    'Which club has won the most UEFA Champions League titles ?',
     [
-      'The UI is not updated',
-      'The UI is updated',
-      'The closest StatefulWidget is updated',
-      'Any nested StatefulWidgets are updated',
+      'Real Madrid',
+      'Bayern Munich',
+      'AC Milan',
+      'Manchester United',
     ],
   ),
   QuizQuestion(
-    'How should you update data inside of StatefulWidgets?',
+    'Who is the current manager of the English national football team ?',
     [
-      'By calling setState()',
-      'By calling updateData()',
-      'By calling updateUI()',
-      'By calling updateState()',
+      'Gareth Southgate',
+      'Jurgen Klopp',
+      'Pep Guardiola',
+      'Jose Mourinho',
     ],
   ),
 ];
