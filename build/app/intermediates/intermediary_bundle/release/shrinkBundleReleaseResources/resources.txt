@@ -1104,212 +1104,212 @@ Marking attr:activityAction:2130771968 used because it matches string pool const
 Marking attr:activityName:2130771969 used because it matches string pool constant activity
 Marking id:line1:2131034160 used because it matches string pool constant line
 Marking id:line3:2131034161 used because it matches string pool constant line
-@com.hichembenabadji.FootbalQuiz:attr/activityAction : reachable=true
-@com.hichembenabadji.FootbalQuiz:attr/activityName : reachable=true
-@com.hichembenabadji.FootbalQuiz:attr/alpha : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/alwaysExpand : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/clearTop : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/finishPrimaryWithSecondary : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/finishSecondaryWithPrimary : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/font : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontProviderAuthority : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontProviderCerts : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontProviderFetchStrategy : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontProviderFetchTimeout : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontProviderPackage : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontProviderQuery : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontProviderSystemFontFamily : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontStyle : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontVariationSettings : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/fontWeight : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/nestedScrollViewStyle : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/placeholderActivityName : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/primaryActivityName : reachable=true
-@com.hichembenabadji.FootbalQuiz:attr/queryPatterns : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/secondaryActivityAction : reachable=true
-@com.hichembenabadji.FootbalQuiz:attr/secondaryActivityName : reachable=true
-@com.hichembenabadji.FootbalQuiz:attr/shortcutMatchRequired : reachable=true
-@com.hichembenabadji.FootbalQuiz:attr/splitLayoutDirection : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/splitMinSmallestWidth : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/splitMinWidth : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/splitRatio : reachable=false
-@com.hichembenabadji.FootbalQuiz:attr/ttcIndex : reachable=false
-@com.hichembenabadji.FootbalQuiz:color/androidx_core_ripple_material_light : reachable=true
-@com.hichembenabadji.FootbalQuiz:color/androidx_core_secondary_text_default_material_light : reachable=true
-@com.hichembenabadji.FootbalQuiz:color/notification_action_color_filter : reachable=false
-    @com.hichembenabadji.FootbalQuiz:color/androidx_core_secondary_text_default_material_light
-@com.hichembenabadji.FootbalQuiz:color/notification_icon_bg_color : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/compat_button_inset_horizontal_material : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/compat_button_inset_vertical_material : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/compat_button_padding_horizontal_material : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/compat_button_padding_vertical_material : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/compat_control_corner_material : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/compat_notification_large_icon_max_height : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/compat_notification_large_icon_max_width : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_action_icon_size : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_action_text_size : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_big_circle_margin : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_content_margin_start : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_large_icon_height : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_large_icon_width : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_main_column_padding_top : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_media_narrow_margin : reachable=false
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_content_margin_start
-@com.hichembenabadji.FootbalQuiz:dimen/notification_right_icon_size : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_right_side_padding_top : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_small_icon_background_padding : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_small_icon_size_as_large : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_subtext_size : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_top_pad : reachable=false
-@com.hichembenabadji.FootbalQuiz:dimen/notification_top_pad_large_text : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/launch_background : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/notification_action_background : reachable=false
-    @com.hichembenabadji.FootbalQuiz:color/androidx_core_ripple_material_light
-    @com.hichembenabadji.FootbalQuiz:dimen/compat_button_inset_horizontal_material
-    @com.hichembenabadji.FootbalQuiz:dimen/compat_button_inset_vertical_material
-    @com.hichembenabadji.FootbalQuiz:dimen/compat_control_corner_material
-    @com.hichembenabadji.FootbalQuiz:dimen/compat_button_padding_horizontal_material
-    @com.hichembenabadji.FootbalQuiz:dimen/compat_button_padding_vertical_material
-@com.hichembenabadji.FootbalQuiz:drawable/notification_bg : reachable=false
-    @com.hichembenabadji.FootbalQuiz:drawable/notification_bg_normal_pressed
-    @com.hichembenabadji.FootbalQuiz:drawable/notification_bg_normal
-@com.hichembenabadji.FootbalQuiz:drawable/notification_bg_low : reachable=false
-    @com.hichembenabadji.FootbalQuiz:drawable/notification_bg_low_pressed
-    @com.hichembenabadji.FootbalQuiz:drawable/notification_bg_low_normal
-@com.hichembenabadji.FootbalQuiz:drawable/notification_bg_low_normal : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/notification_bg_low_pressed : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/notification_bg_normal : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/notification_bg_normal_pressed : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/notification_icon_background : reachable=false
-    @com.hichembenabadji.FootbalQuiz:color/notification_icon_bg_color
-@com.hichembenabadji.FootbalQuiz:drawable/notification_template_icon_bg : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/notification_template_icon_low_bg : reachable=false
-@com.hichembenabadji.FootbalQuiz:drawable/notification_tile_bg : reachable=false
-    @com.hichembenabadji.FootbalQuiz:drawable/notify_panel_notification_icon_bg
-@com.hichembenabadji.FootbalQuiz:drawable/notify_panel_notification_icon_bg : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/accessibility_action_clickable_span : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_0 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_1 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_10 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_11 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_12 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_13 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_14 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_15 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_16 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_17 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_18 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_19 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_2 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_20 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_21 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_22 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_23 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_24 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_25 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_26 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_27 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_28 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_29 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_3 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_30 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_31 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_4 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_5 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_6 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_7 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_8 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/accessibility_custom_action_9 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/action_container : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/action_divider : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/action_image : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/action_text : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/actions : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/androidx_window_activity_scope : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/async : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/blocking : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/chronometer : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/dialog_button : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/forever : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/icon : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/icon_group : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/info : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/italic : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/line1 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/line3 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/locale : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/ltr : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/normal : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/notification_background : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/notification_main_column : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/notification_main_column_container : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/right_icon : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/right_side : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/rtl : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_accessibility_actions : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_accessibility_clickable_spans : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_accessibility_heading : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_accessibility_pane_title : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_on_apply_window_listener : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_on_receive_content_listener : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_on_receive_content_mime_types : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_screen_reader_focusable : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_state_description : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_transition_group : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_unhandled_key_event_manager : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_unhandled_key_listeners : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/tag_window_insets_animation_callback : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/text : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/text2 : reachable=true
-@com.hichembenabadji.FootbalQuiz:id/time : reachable=false
-@com.hichembenabadji.FootbalQuiz:id/title : reachable=false
-@com.hichembenabadji.FootbalQuiz:integer/status_bar_notification_info_maxnum : reachable=false
-@com.hichembenabadji.FootbalQuiz:layout/custom_dialog : reachable=false
-@com.hichembenabadji.FootbalQuiz:layout/notification_action : reachable=false
-    @com.hichembenabadji.FootbalQuiz:style/Widget_Compat_NotificationActionContainer
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_action_icon_size
-    @com.hichembenabadji.FootbalQuiz:style/Widget_Compat_NotificationActionText
-@com.hichembenabadji.FootbalQuiz:layout/notification_action_tombstone : reachable=false
-    @com.hichembenabadji.FootbalQuiz:style/Widget_Compat_NotificationActionContainer
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_action_icon_size
-    @com.hichembenabadji.FootbalQuiz:style/Widget_Compat_NotificationActionText
-@com.hichembenabadji.FootbalQuiz:layout/notification_template_custom_big : reachable=false
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_large_icon_width
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_large_icon_height
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_main_column_padding_top
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_content_margin_start
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_right_side_padding_top
-    @com.hichembenabadji.FootbalQuiz:layout/notification_template_part_time
-    @com.hichembenabadji.FootbalQuiz:layout/notification_template_part_chronometer
-    @com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Info
-    @com.hichembenabadji.FootbalQuiz:layout/notification_template_icon_group
-@com.hichembenabadji.FootbalQuiz:layout/notification_template_icon_group : reachable=false
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_large_icon_width
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_large_icon_height
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_big_circle_margin
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_right_icon_size
-@com.hichembenabadji.FootbalQuiz:layout/notification_template_part_chronometer : reachable=false
-    @com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Time
-@com.hichembenabadji.FootbalQuiz:layout/notification_template_part_time : reachable=false
-    @com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Time
-@com.hichembenabadji.FootbalQuiz:mipmap/ic_launcher : reachable=true
-@com.hichembenabadji.FootbalQuiz:string/status_bar_notification_info_overflow : reachable=false
-@com.hichembenabadji.FootbalQuiz:style/LaunchTheme : reachable=true
-    @com.hichembenabadji.FootbalQuiz:drawable/launch_background
-@com.hichembenabadji.FootbalQuiz:style/NormalTheme : reachable=true
-@com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification : reachable=false
-@com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Info : reachable=false
-    @com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification
-@com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Line2 : reachable=false
-    @com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Info
-@com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Time : reachable=false
-    @com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification
-@com.hichembenabadji.FootbalQuiz:style/TextAppearance_Compat_Notification_Title : reachable=false
-@com.hichembenabadji.FootbalQuiz:style/Widget_Compat_NotificationActionContainer : reachable=false
-    @com.hichembenabadji.FootbalQuiz:drawable/notification_action_background
-@com.hichembenabadji.FootbalQuiz:style/Widget_Compat_NotificationActionText : reachable=false
-    @com.hichembenabadji.FootbalQuiz:color/androidx_core_secondary_text_default_material_light
-    @com.hichembenabadji.FootbalQuiz:dimen/notification_action_text_size
+@com.hichembenabadji.quizfootball:attr/activityAction : reachable=true
+@com.hichembenabadji.quizfootball:attr/activityName : reachable=true
+@com.hichembenabadji.quizfootball:attr/alpha : reachable=false
+@com.hichembenabadji.quizfootball:attr/alwaysExpand : reachable=false
+@com.hichembenabadji.quizfootball:attr/clearTop : reachable=false
+@com.hichembenabadji.quizfootball:attr/finishPrimaryWithSecondary : reachable=false
+@com.hichembenabadji.quizfootball:attr/finishSecondaryWithPrimary : reachable=false
+@com.hichembenabadji.quizfootball:attr/font : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontProviderAuthority : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontProviderCerts : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontProviderFetchStrategy : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontProviderFetchTimeout : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontProviderPackage : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontProviderQuery : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontProviderSystemFontFamily : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontStyle : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontVariationSettings : reachable=false
+@com.hichembenabadji.quizfootball:attr/fontWeight : reachable=false
+@com.hichembenabadji.quizfootball:attr/nestedScrollViewStyle : reachable=false
+@com.hichembenabadji.quizfootball:attr/placeholderActivityName : reachable=false
+@com.hichembenabadji.quizfootball:attr/primaryActivityName : reachable=true
+@com.hichembenabadji.quizfootball:attr/queryPatterns : reachable=false
+@com.hichembenabadji.quizfootball:attr/secondaryActivityAction : reachable=true
+@com.hichembenabadji.quizfootball:attr/secondaryActivityName : reachable=true
+@com.hichembenabadji.quizfootball:attr/shortcutMatchRequired : reachable=true
+@com.hichembenabadji.quizfootball:attr/splitLayoutDirection : reachable=false
+@com.hichembenabadji.quizfootball:attr/splitMinSmallestWidth : reachable=false
+@com.hichembenabadji.quizfootball:attr/splitMinWidth : reachable=false
+@com.hichembenabadji.quizfootball:attr/splitRatio : reachable=false
+@com.hichembenabadji.quizfootball:attr/ttcIndex : reachable=false
+@com.hichembenabadji.quizfootball:color/androidx_core_ripple_material_light : reachable=true
+@com.hichembenabadji.quizfootball:color/androidx_core_secondary_text_default_material_light : reachable=true
+@com.hichembenabadji.quizfootball:color/notification_action_color_filter : reachable=false
+    @com.hichembenabadji.quizfootball:color/androidx_core_secondary_text_default_material_light
+@com.hichembenabadji.quizfootball:color/notification_icon_bg_color : reachable=false
+@com.hichembenabadji.quizfootball:dimen/compat_button_inset_horizontal_material : reachable=false
+@com.hichembenabadji.quizfootball:dimen/compat_button_inset_vertical_material : reachable=false
+@com.hichembenabadji.quizfootball:dimen/compat_button_padding_horizontal_material : reachable=false
+@com.hichembenabadji.quizfootball:dimen/compat_button_padding_vertical_material : reachable=false
+@com.hichembenabadji.quizfootball:dimen/compat_control_corner_material : reachable=false
+@com.hichembenabadji.quizfootball:dimen/compat_notification_large_icon_max_height : reachable=false
+@com.hichembenabadji.quizfootball:dimen/compat_notification_large_icon_max_width : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_action_icon_size : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_action_text_size : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_big_circle_margin : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_content_margin_start : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_large_icon_height : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_large_icon_width : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_main_column_padding_top : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_media_narrow_margin : reachable=false
+    @com.hichembenabadji.quizfootball:dimen/notification_content_margin_start
+@com.hichembenabadji.quizfootball:dimen/notification_right_icon_size : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_right_side_padding_top : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_small_icon_background_padding : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_small_icon_size_as_large : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_subtext_size : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_top_pad : reachable=false
+@com.hichembenabadji.quizfootball:dimen/notification_top_pad_large_text : reachable=false
+@com.hichembenabadji.quizfootball:drawable/launch_background : reachable=false
+@com.hichembenabadji.quizfootball:drawable/notification_action_background : reachable=false
+    @com.hichembenabadji.quizfootball:color/androidx_core_ripple_material_light
+    @com.hichembenabadji.quizfootball:dimen/compat_button_inset_horizontal_material
+    @com.hichembenabadji.quizfootball:dimen/compat_button_inset_vertical_material
+    @com.hichembenabadji.quizfootball:dimen/compat_control_corner_material
+    @com.hichembenabadji.quizfootball:dimen/compat_button_padding_horizontal_material
+    @com.hichembenabadji.quizfootball:dimen/compat_button_padding_vertical_material
+@com.hichembenabadji.quizfootball:drawable/notification_bg : reachable=false
+    @com.hichembenabadji.quizfootball:drawable/notification_bg_normal_pressed
+    @com.hichembenabadji.quizfootball:drawable/notification_bg_normal
+@com.hichembenabadji.quizfootball:drawable/notification_bg_low : reachable=false
+    @com.hichembenabadji.quizfootball:drawable/notification_bg_low_pressed
+    @com.hichembenabadji.quizfootball:drawable/notification_bg_low_normal
+@com.hichembenabadji.quizfootball:drawable/notification_bg_low_normal : reachable=false
+@com.hichembenabadji.quizfootball:drawable/notification_bg_low_pressed : reachable=false
+@com.hichembenabadji.quizfootball:drawable/notification_bg_normal : reachable=false
+@com.hichembenabadji.quizfootball:drawable/notification_bg_normal_pressed : reachable=false
+@com.hichembenabadji.quizfootball:drawable/notification_icon_background : reachable=false
+    @com.hichembenabadji.quizfootball:color/notification_icon_bg_color
+@com.hichembenabadji.quizfootball:drawable/notification_template_icon_bg : reachable=false
+@com.hichembenabadji.quizfootball:drawable/notification_template_icon_low_bg : reachable=false
+@com.hichembenabadji.quizfootball:drawable/notification_tile_bg : reachable=false
+    @com.hichembenabadji.quizfootball:drawable/notify_panel_notification_icon_bg
+@com.hichembenabadji.quizfootball:drawable/notify_panel_notification_icon_bg : reachable=false
+@com.hichembenabadji.quizfootball:id/accessibility_action_clickable_span : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_0 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_1 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_10 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_11 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_12 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_13 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_14 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_15 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_16 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_17 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_18 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_19 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_2 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_20 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_21 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_22 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_23 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_24 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_25 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_26 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_27 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_28 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_29 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_3 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_30 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_31 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_4 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_5 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_6 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_7 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_8 : reachable=true
+@com.hichembenabadji.quizfootball:id/accessibility_custom_action_9 : reachable=true
+@com.hichembenabadji.quizfootball:id/action_container : reachable=true
+@com.hichembenabadji.quizfootball:id/action_divider : reachable=true
+@com.hichembenabadji.quizfootball:id/action_image : reachable=true
+@com.hichembenabadji.quizfootball:id/action_text : reachable=true
+@com.hichembenabadji.quizfootball:id/actions : reachable=true
+@com.hichembenabadji.quizfootball:id/androidx_window_activity_scope : reachable=true
+@com.hichembenabadji.quizfootball:id/async : reachable=false
+@com.hichembenabadji.quizfootball:id/blocking : reachable=false
+@com.hichembenabadji.quizfootball:id/chronometer : reachable=false
+@com.hichembenabadji.quizfootball:id/dialog_button : reachable=false
+@com.hichembenabadji.quizfootball:id/forever : reachable=false
+@com.hichembenabadji.quizfootball:id/icon : reachable=false
+@com.hichembenabadji.quizfootball:id/icon_group : reachable=false
+@com.hichembenabadji.quizfootball:id/info : reachable=true
+@com.hichembenabadji.quizfootball:id/italic : reachable=false
+@com.hichembenabadji.quizfootball:id/line1 : reachable=true
+@com.hichembenabadji.quizfootball:id/line3 : reachable=true
+@com.hichembenabadji.quizfootball:id/locale : reachable=true
+@com.hichembenabadji.quizfootball:id/ltr : reachable=false
+@com.hichembenabadji.quizfootball:id/normal : reachable=false
+@com.hichembenabadji.quizfootball:id/notification_background : reachable=false
+@com.hichembenabadji.quizfootball:id/notification_main_column : reachable=false
+@com.hichembenabadji.quizfootball:id/notification_main_column_container : reachable=false
+@com.hichembenabadji.quizfootball:id/right_icon : reachable=false
+@com.hichembenabadji.quizfootball:id/right_side : reachable=false
+@com.hichembenabadji.quizfootball:id/rtl : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_accessibility_actions : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_accessibility_clickable_spans : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_accessibility_heading : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_accessibility_pane_title : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_on_apply_window_listener : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_on_receive_content_listener : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_on_receive_content_mime_types : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_screen_reader_focusable : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_state_description : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_transition_group : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_unhandled_key_event_manager : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_unhandled_key_listeners : reachable=false
+@com.hichembenabadji.quizfootball:id/tag_window_insets_animation_callback : reachable=false
+@com.hichembenabadji.quizfootball:id/text : reachable=true
+@com.hichembenabadji.quizfootball:id/text2 : reachable=true
+@com.hichembenabadji.quizfootball:id/time : reachable=false
+@com.hichembenabadji.quizfootball:id/title : reachable=false
+@com.hichembenabadji.quizfootball:integer/status_bar_notification_info_maxnum : reachable=false
+@com.hichembenabadji.quizfootball:layout/custom_dialog : reachable=false
+@com.hichembenabadji.quizfootball:layout/notification_action : reachable=false
+    @com.hichembenabadji.quizfootball:style/Widget_Compat_NotificationActionContainer
+    @com.hichembenabadji.quizfootball:dimen/notification_action_icon_size
+    @com.hichembenabadji.quizfootball:style/Widget_Compat_NotificationActionText
+@com.hichembenabadji.quizfootball:layout/notification_action_tombstone : reachable=false
+    @com.hichembenabadji.quizfootball:style/Widget_Compat_NotificationActionContainer
+    @com.hichembenabadji.quizfootball:dimen/notification_action_icon_size
+    @com.hichembenabadji.quizfootball:style/Widget_Compat_NotificationActionText
+@com.hichembenabadji.quizfootball:layout/notification_template_custom_big : reachable=false
+    @com.hichembenabadji.quizfootball:dimen/notification_large_icon_width
+    @com.hichembenabadji.quizfootball:dimen/notification_large_icon_height
+    @com.hichembenabadji.quizfootball:dimen/notification_main_column_padding_top
+    @com.hichembenabadji.quizfootball:dimen/notification_content_margin_start
+    @com.hichembenabadji.quizfootball:dimen/notification_right_side_padding_top
+    @com.hichembenabadji.quizfootball:layout/notification_template_part_time
+    @com.hichembenabadji.quizfootball:layout/notification_template_part_chronometer
+    @com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Info
+    @com.hichembenabadji.quizfootball:layout/notification_template_icon_group
+@com.hichembenabadji.quizfootball:layout/notification_template_icon_group : reachable=false
+    @com.hichembenabadji.quizfootball:dimen/notification_large_icon_width
+    @com.hichembenabadji.quizfootball:dimen/notification_large_icon_height
+    @com.hichembenabadji.quizfootball:dimen/notification_big_circle_margin
+    @com.hichembenabadji.quizfootball:dimen/notification_right_icon_size
+@com.hichembenabadji.quizfootball:layout/notification_template_part_chronometer : reachable=false
+    @com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Time
+@com.hichembenabadji.quizfootball:layout/notification_template_part_time : reachable=false
+    @com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Time
+@com.hichembenabadji.quizfootball:mipmap/ic_launcher : reachable=true
+@com.hichembenabadji.quizfootball:string/status_bar_notification_info_overflow : reachable=false
+@com.hichembenabadji.quizfootball:style/LaunchTheme : reachable=true
+    @com.hichembenabadji.quizfootball:drawable/launch_background
+@com.hichembenabadji.quizfootball:style/NormalTheme : reachable=true
+@com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification : reachable=false
+@com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Info : reachable=false
+    @com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification
+@com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Info
+@com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Time : reachable=false
+    @com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification
+@com.hichembenabadji.quizfootball:style/TextAppearance_Compat_Notification_Title : reachable=false
+@com.hichembenabadji.quizfootball:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @com.hichembenabadji.quizfootball:drawable/notification_action_background
+@com.hichembenabadji.quizfootball:style/Widget_Compat_NotificationActionText : reachable=false
+    @com.hichembenabadji.quizfootball:color/androidx_core_secondary_text_default_material_light
+    @com.hichembenabadji.quizfootball:dimen/notification_action_text_size
 
 The root reachable resources are:
  attr:activityAction:2130771968

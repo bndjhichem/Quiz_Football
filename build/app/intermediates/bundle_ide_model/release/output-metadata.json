@@ -4,7 +4,7 @@
     "type": "BUNDLE",
     "kind": "RegularFile"
   },
-  "applicationId": "com.hichembenabadji.FootbalQuiz",
+  "applicationId": "com.hichembenabadji.quizfootball",
   "variantName": "release",
   "elements": [
     {

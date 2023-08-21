@@ -1,4 +1,4 @@
-#Sun Aug 06 11:26:49 WEST 2023
-base.0=C\:\\Users\\Hichem\\Documents\\GitHub\\Quiz\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Aug 21 13:09:17 WEST 2023
+base.0=C\:\\Hichem\\Hichem Flutter\\Hichem App's\\PlayStore\\02 - Quiz Football\\Vs Code\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

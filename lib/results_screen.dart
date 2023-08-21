@@ -4,7 +4,7 @@ import 'package:adv_basics/data/questions.dart';
 import 'package:adv_basics/questions_summary/questions_summary.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class ResultsScreen extends StatelessWidget {
+class ResultsScreen extends StatefulWidget {
   const ResultsScreen({
     super.key,
     required this.chosenAnswers,
@@ -14,17 +14,30 @@ class ResultsScreen extends StatelessWidget {
   final void Function() onRestart;
   final List<String> chosenAnswers;
 
+  @override
+  State<ResultsScreen> createState() => _ResultsScreenState();
+}
+
+class _ResultsScreenState extends State<ResultsScreen> {
+  late List<Map<String, Object>> summaryData;
+  late int numTotalQuestions;
+  late int numCorrectQuestions;
+  @override
+  void initState() {
+    super.initState();
+    summaryData = getSummaryData();
+    numTotalQuestions = questions.length;
+    numCorrectQuestions = summaryData.where((data) {
+      return data['user_answer'] == data['correct_answer'];
+    }).length;
+  }
+
   List<Map<String, Object>> getSummaryData() {
     final List<Map<String, Object>> summary = [];
 
-    for (var i = 0; i < chosenAnswers.length; i++) {
+    for (var i = 0; i < widget.chosenAnswers.length; i++) {
       summary.add(
-        {
-          'question_index': i,
-          'question': questions[i].text,
-          'correct_answer': questions[i].answers[0],
-          'user_answer': chosenAnswers[i]
-        },
+        {'question_index': i, 'question': questions[i].text, 'correct_answer': questions[i].answers[0], 'user_answer': widget.chosenAnswers[i]},
       );
     }
 
@@ -33,12 +46,6 @@ class ResultsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final summaryData = getSummaryData();
-    final numTotalQuestions = questions.length;
-    final numCorrectQuestions = summaryData.where((data) {
-      return data['user_answer'] == data['correct_answer'];
-    }).length;
-
     return SizedBox(
       width: double.infinity,
       child: Container(
@@ -49,7 +56,7 @@ class ResultsScreen extends StatelessWidget {
             Text(
               'You answered $numCorrectQuestions out of $numTotalQuestions questions correctly!',
               style: GoogleFonts.lato(
-                color:  Colors.white,
+                color: Colors.white,
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
               ),
@@ -65,7 +72,7 @@ class ResultsScreen extends StatelessWidget {
               height: 30,
             ),
             TextButton.icon(
-              onPressed: onRestart,
+              onPressed: widget.onRestart,
               style: TextButton.styleFrom(
                 foregroundColor: Colors.white,
               ),
