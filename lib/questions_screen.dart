@@ -1,8 +1,7 @@
+import 'package:quiz_Football/answer_button.dart';
+import 'package:quiz_Football/data/questions.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import 'package:adv_basics/answer_button.dart';
-import 'package:adv_basics/data/questions.dart';
 
 class QuestionsScreen extends StatefulWidget {
   const QuestionsScreen({
@@ -24,14 +23,15 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
   void answerQuestion(String selectedAnswer) {
     widget.onSelectAnswer(selectedAnswer);
     setState(() {
-      currentQuestionIndex++; 
+      currentQuestionIndex++;
     });
   }
-@override
+
+  @override
   void initState() {
-    // TODO: implement initState
     super.initState();
   }
+
   @override
   Widget build(context) {
     final currentQuestion = questions[currentQuestionIndex];

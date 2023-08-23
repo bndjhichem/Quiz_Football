@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'package:adv_basics/start_screen.dart';
-import 'package:adv_basics/questions_screen.dart';
-import 'package:adv_basics/data/questions.dart';
-import 'package:adv_basics/results_screen.dart';
+import 'package:quiz_Football/start_screen.dart';
+import 'package:quiz_Football/questions_screen.dart';
+import 'package:quiz_Football/data/questions.dart';
+import 'package:quiz_Football/results_screen.dart';
 
 class Quiz extends StatefulWidget {
   const Quiz({super.key});
@@ -17,10 +17,11 @@ class Quiz extends StatefulWidget {
 class _QuizState extends State<Quiz> {
   List<String> selectedAnswers = [];
   var activeScreen = 'start-screen';
-@override
+  @override
   void initState() {
     super.initState();
   }
+
   void switchScreen() {
     setState(() {
       activeScreen = 'questions-screen';

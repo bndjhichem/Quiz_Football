@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'package:adv_basics/questions_summary/question_identifier.dart';
+import 'package:quiz_Football/questions_summary/question_identifier.dart';
 
 class SummaryItem extends StatelessWidget {
   const SummaryItem(this.itemData, {super.key});
@@ -10,8 +10,7 @@ class SummaryItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final isCorrectAnswer =
-        itemData['user_answer'] == itemData['correct_answer'];
+    final isCorrectAnswer = itemData['user_answer'] == itemData['correct_answer'];
 
     return Padding(
       padding: const EdgeInsets.symmetric(

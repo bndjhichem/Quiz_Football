@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Hichem\\Hichem Flutter\\Hichem App's\\PlayStore\\02 - Quiz Football\\Vs Code\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\Hichem\\Documents\\GitHub\\Quiz\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Hichem\\Hichem Flutter\\Hichem App's\\PlayStore\\02 - Quiz Football\\Vs Code\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\Hichem\\Documents\\GitHub\\Quiz\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

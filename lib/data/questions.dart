@@ -1,7 +1,7 @@
-import 'package:adv_basics/models/quiz_question.dart';
+import 'package:quiz_Football/models/quiz_question.dart';
 
 const questions = [
-   QuizQuestion(
+  QuizQuestion(
     'Who won the FIFA World Cup in 2018 ?',
     [
       'France',
@@ -10,7 +10,7 @@ const questions = [
       'Argentina',
     ],
   ),
-   QuizQuestion(
+  QuizQuestion(
     'Which player has won the most UEFA Champions League titles?',
     [
       'Cristiano Ronaldo',
@@ -19,7 +19,7 @@ const questions = [
       'Andrés Iniesta',
     ],
   ),
-   QuizQuestion(
+  QuizQuestion(
     'Which country has won the most European Championship titles?',
     [
       'Spain',
@@ -46,8 +46,7 @@ const questions = [
       'Argentina',
     ],
   ),
-  QuizQuestion(
-    'Which player has won the most Ballon dor awards ?', [
+  QuizQuestion('Which player has won the most Ballon dor awards ?', [
     'Lionel Messi',
     'Cristiano Ronaldo',
     'Neymar',

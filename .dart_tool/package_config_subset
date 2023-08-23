@@ -1,7 +1,3 @@
-adv_basics
-2.18
-file:///C:/Hichem/Hichem%20Flutter/Hichem%20App's/PlayStore/02%20-%20Quiz%20Football/Vs%20Code/
-file:///C:/Hichem/Hichem%20Flutter/Hichem%20App's/PlayStore/02%20-%20Quiz%20Football/Vs%20Code/lib/
 archive
 2.12
 file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/archive-3.3.7/
@@ -68,12 +64,12 @@ file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_
 file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_launcher_icons-0.13.1/lib/
 google_fonts
 2.14
-file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-4.0.4/
-file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-4.0.4/lib/
+file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-4.0.5/
+file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-4.0.5/lib/
 http
-2.14
-file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.5/
-file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.5/lib/
+3.0
+file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.1.0/
+file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.1.0/lib/
 http_parser
 2.12
 file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/http_parser-4.0.2/
@@ -198,6 +194,10 @@ yaml
 2.19
 file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2/
 file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/yaml-3.1.2/lib/
+quiz_Football
+2.18
+file:///C:/Users/Hichem/Documents/GitHub/Quiz/
+file:///C:/Users/Hichem/Documents/GitHub/Quiz/lib/
 sky_engine
 3.0
 file:///C:/Users/Hichem/Downloads/Compressed/flutter/bin/cache/pkg/sky_engine/

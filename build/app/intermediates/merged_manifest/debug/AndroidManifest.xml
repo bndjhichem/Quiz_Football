@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hichembenabadji.quizfootball"
-    android:versionCode="1"
-    android:versionName="1.0.0" >
+    package="com.hichembenabadji.FootbalQuiz"
+    android:versionCode="3"
+    android:versionName="1.0.1" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -19,7 +19,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="Quiz Football" >
+        android:label="adv_basics" >
         <activity
             android:name="com.example.adv_basics.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

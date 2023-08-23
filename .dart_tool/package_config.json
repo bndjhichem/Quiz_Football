@@ -111,15 +111,15 @@
     },
     {
       "name": "google_fonts",
-      "rootUri": "file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-4.0.4",
+      "rootUri": "file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/google_fonts-4.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
     {
       "name": "http",
-      "rootUri": "file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/http-0.13.5",
+      "rootUri": "file:///C:/Users/Hichem/AppData/Local/Pub/Cache/hosted/pub.dev/http-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "http_parser",
@@ -314,13 +314,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "adv_basics",
+      "name": "quiz_Football",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-08-21T12:08:39.245267Z",
+  "generated": "2023-08-23T13:29:18.237295Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

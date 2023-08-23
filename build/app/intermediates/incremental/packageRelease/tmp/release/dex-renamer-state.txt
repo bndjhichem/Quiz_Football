@@ -1,4 +1,4 @@
-#Sat Jul 22 15:32:19 WEST 2023
-base.0=C\:\\Hichem\\Hichem Flutter\\Hichem App's\\Quiz Football\\vs code\\Quiz\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+#Mon Aug 21 21:07:10 WEST 2023
+base.0=C\:\\Users\\Hichem\\Documents\\GitHub\\Quiz_Football\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
