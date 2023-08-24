@@ -55,9 +55,9 @@ const questions = [
   QuizQuestion(
     'Which country has won the most Copa America titles ?',
     [
-      'Brazil',
-      'Argentina',
       'Uruguay',
+      'Argentina',
+      'Brazil',
       'Colombia',
     ],
   ),
@@ -154,8 +154,8 @@ const questions = [
   QuizQuestion(
     'Who is the all-time leading goal scorer for the French national team?',
     [
+      'Olivier Giroud',
       'Thierry Henry',
-      'Michel Platini',
       'Zinedine Zidane',
       'Antoine Griezmann',
     ],
