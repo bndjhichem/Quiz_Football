@@ -1,0 +1,1 @@
+ C:\\Users\\Hichem\\Documents\\GitHub\\Quiz_Football\\.dart_tool\\flutter_build\\d7ab18706c34532a201ed6a9fc3325e5\\native_assets.yaml: 
